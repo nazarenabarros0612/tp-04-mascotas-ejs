@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luna",
+        "especie": "Perro",
+        "edad": 3,
+        "descripcion": "Luna es una parrita cariñosa y juguetona que busca una familia responsable",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "Milo",
+        "especie": "Gato",
+        "edad": 2,
+        "descripcion": "Milo es un gato tranquilo que disfruta de los lugares cómodos y de recibir cariño",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "Rocky",
+        "especie": "Perro",
+        "edad": 5,
+        "descripcion": "Rocky es un perro activo y cariñoso que necesita una familia que pueda acompañarlo",
+        "estado": "Reservada",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 4,
+        "nombre": "Nala",
+        "especie": "Gato",
+        "edad": 1,
+        "descripcion": "Nala es una gata curiosa y dulce que busca un hogar donde la cuiden",
+        "estado": "En adopción",
+        "imagen": "/img/mascota.svg"
+    },
+    {
+        "id": 5,
+        "nombre": "Toby",
+        "especie": "Perro",
+        "edad": 7,
+        "descripcion": "Toby es un perro tranquilo y compañero que disfruta de los paseos y la compañía",
+        "estado": "Adoptada",
+        "imagen": "/img/mascota.svg"
+    }
+]
